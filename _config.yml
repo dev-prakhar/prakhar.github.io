@@ -6,7 +6,7 @@
 name: Prakhar Shrivastava
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Software Development Engineer I @ Zomato
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -17,13 +17,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
+  email: dev@prakhar.xyz
   github: dev-prakhar
-  linkedin:
-  twitter: jekyllrb
+  linkedin: prakhar1996
+  twitter: prakhars96
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
