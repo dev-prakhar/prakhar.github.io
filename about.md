@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I'm a Software Development Engineer 1 at Zomato.
+A software engineer, pumped with curiosity. Loves to find out of the box solutions to challenging problems. Behind every bottleneck there's a design problem waiting to be solved.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+_Loves to build stuff,_  
+_Loves to read,_  
+_Loves to learn new things._
 
 ### Contact me
 
-[dev@prakhar.xyz](mailto:dev@prakhar.xyz)
+You can reach out to me on any of the provided mediums
