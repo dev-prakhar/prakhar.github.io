@@ -13,7 +13,7 @@ But *should I really be preparing for an interview?*
 Do you prepare yourself everyday before you go to work? I don't.
 Isn't interview just a way to know if a person can work in the organisation?
 
-Sure, the intervierwer wants to know if a person can code if it's a technical position. By all means you should judge a person's technical skills. But asking the candidate to code such problems, which(in a very likely scenario) the person will never encounter as a real world problem.
+Sure, the interviewer wants to know if a person can code if it's a technical position. By all means you should judge a person's technical skills. But asking the candidate to code such problems, which(in a very likely scenario) the person will never encounter as a real world problem.
 
 There are many things that you do while working and **printing the bottom view of a binary search tree when it is rotated at an angle of 30 degrees** isn't one of them.
 
@@ -23,7 +23,7 @@ But that's the whole point. This way doesn't tell you if you're going for the ri
 
 ## There are many aspects that could be missed
 
-When I'm given a question in an interview, I want it to be something I know(Obviously!) or something that makes me learn new thing. In my opinion, I don't actually learn anything new with DS questions. If I'm not able to get it, I'll just open geeksforgeeks and check it out and I'll not learn anything new because this knowledge will only help me crack interviews.
+When I'm given a question in an interview, I want it to be something I know(Obviously!) or something that makes me learn new thing. In my opinion, I don't actually learn anything new with DS questions. If I'm not able to get it, I'll just open internet for solution and check it out and I'll not learn anything new because this knowledge will only help me crack interviews.
 
 #### What is a BST?
 - **Very Important** for any technical individual to know.
