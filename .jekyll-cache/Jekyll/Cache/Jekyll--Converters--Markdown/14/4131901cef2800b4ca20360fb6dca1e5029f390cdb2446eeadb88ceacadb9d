@@ -1,0 +1,50 @@
+I"J<p>Before you start judging me, just hear me out.</p>
+
+<p>Recently I gave an interview and was rejected (Obviously!). I think I wasn’t prepared enough.
+But <em>should I really be preparing for an interview?</em></p>
+
+<h2 id="lets-look-at-it-this-way">Let’s look at it this way</h2>
+
+<p>Do you prepare yourself everyday before you go to work? I don’t.
+Isn’t interview just a way to know if a person can work in the organisation?</p>
+
+<p>Sure, the intervierwer wants to know if a person can code if it’s a technical position. By all means you should judge a person’s technical skills. But asking the candidate to code such problems, which(in a very likely scenario) the person will never encounter as a real world problem.</p>
+
+<p>There are many things that you do while working and <strong>printing the bottom view of a binary search tree when it is rotated at an angle of 30 degrees</strong> isn’t one of them.</p>
+
+<p>I have met many professionals in my life that are wonderful, when given a Data Structure/Algorithm problem. But not very bright when it comes to actual development. And I have met many professionals who are not good in Data Structures and Algos but their development is flawless. This doesn’t mean that every individual who is good at DS is not good at actual development and every individual who doesn’t know DS is brilliant at developing things.</p>
+
+<p>But that’s the whole point. This way doesn’t tell you if you’re going for the right candidate or if you’re rejecting a wrong candidate.</p>
+
+<h2 id="there-are-many-aspects-that-could-be-missed">There are many aspects that could be missed</h2>
+
+<p>When I’m given a question in an interview, I want it to be something I know(Obviously!) or something that makes me learn new thing. In my opinion, I don’t actually learn anything new with DS questions. If I’m not able to get it, I’ll just open geeksforgeeks and check it out and I’ll not learn anything new because this knowledge will only help me crack interviews.</p>
+
+<p>What is a BST? -&gt; <strong>Very Important</strong> for any technical individual to know.
+Bottom view of BST -&gt; I don’t think that’s necessary.
+Are you getting my point?</p>
+
+<p>When we write code for solving such problems, we forget to check for these things:</p>
+
+<ul>
+  <li>Is the code readable? In actual development we never use the variables =&gt; a, b, i, j k, count etc.</li>
+  <li>Is the code easily testable? We should never ship anything without writing tests for it</li>
+  <li>Are we following the write principles, such as not repeating ourselves or not writing very tightly coupled code?</li>
+</ul>
+
+<p>In my experience, working code can be written by anyone but writing working, testable, maintainable, readable code is a much bigger challenge.</p>
+
+<h2 id="the-kind-of-problems-i-actually-faced-while-working-in-an-organisation">The kind of problems I actually faced while working in an organisation</h2>
+
+<ul>
+  <li>Geeee, the server is throwing 504s and not able to handle the load, how should we decrease the response time and increase the throughput?</li>
+  <li>DB is taking a lot of time to fetch rows, is the table indexed properly, can we use the indexed columns to query the results?</li>
+  <li>Mongo is querying itself again if the returned documents are more than a certain limit, how can we avoid that?</li>
+</ul>
+
+<p>and many more. None of which could’ve been easier for me to solve had I known DS &amp; Algos a little better.</p>
+
+<p><em>Judging a person’s ability using DS &amp; Algos could’ve been a great way in the past, but since the inception of many resources which specifically <strong>prepare</strong> an individual for interviews. I think, number of false positives and false negatives are increasing.</em></p>
+
+<p><strong>NOTE</strong>: Everything that’s written is my personal opinion. Don’t want to offend anybody :-P</p>
+:ET

@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Prakhar Shrivastava – Software Development Engineer I @ Zomato</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="Software Development Engineer I @ Zomato">
-    <meta property="og:description" content="Software Development Engineer I @ Zomato" />
-    
-    <meta name="author" content="Prakhar Shrivastava" />
-
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Prakhar Shrivastava - Software Development Engineer I @ Zomato" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://avatars2.githubusercontent.com/u/41886817?v=4" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">Prakhar Shrivastava</a></h1>
-            <p class="site-description">Software Development Engineer I @ Zomato</p>
-          </div>
-
-          <nav>
-            <a href="/">Home</a>
-            <a href="/posts">Blogs</a>
-            <a href="/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <h2 id="experience">Experience</h2>
+I"1<h2 id="experience">Experience</h2>
 
 <h3 id="software-development-engineer-1---zomato-may-2019---present">Software Development Engineer 1 - Zomato, May 2019 - Present</h3>
 
@@ -148,31 +99,4 @@ Worked in: RoR, Go, Java, AWS, MySql, Mongo, Redis</li>
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// JavaScript</span>
 <span class="p">()</span> <span class="o">=&gt;</span> <span class="mi">3</span><span class="o">/</span><span class="mi">5</span>
 </code></pre></div></div>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-<a href="mailto:dev@prakhar.xyz"><i class="svg-icon email"></i></a>
-
-
-<a href="https://github.com/dev-prakhar" target="_blank"><i class="svg-icon github"></i></a>
-
-<a href="https://www.linkedin.com/in/prakhar1996" target="_blank"><i class="svg-icon linkedin"></i></a>
-
-
-<a href="https://www.twitter.com/prakhars96" target="_blank"><i class="svg-icon twitter"></i></a>
-
-
-
-<a href="https://pypi.org/user/prakhar96" target="_blank"><i class="svg-icon pypi"></i></a>
-        </footer>
-      </div>
-    </div>
-
-    
-
-  </body>
-</html>
+:ET
