@@ -1,62 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Why should I be preparing for interviews? – Prakhar Shrivastava – Software Development Engineer I @ Zomato</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="Before you start judging me, just hear me out.
-" />
-    <meta property="og:description" content="Before you start judging me, just hear me out.
-" />
-    
-    <meta name="author" content="Prakhar Shrivastava" />
-
-    
-    <meta property="og:title" content="Why should I be preparing for interviews?" />
-    <meta property="twitter:title" content="Why should I be preparing for interviews?" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Prakhar Shrivastava - Software Development Engineer I @ Zomato" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://avatars2.githubusercontent.com/u/41886817?v=4" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">Prakhar Shrivastava</a></h1>
-            <p class="site-description">Software Development Engineer I @ Zomato</p>
-          </div>
-
-          <nav>
-            <a href="/">Home</a>
-            <a href="/posts">Blogs</a>
-            <a href="/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <article class="post">
-  <h1>Why should I be preparing for interviews?</h1>
-
-  <div class="entry">
-    <p>Before you start judging me, just hear me out.</p>
+I"�<p>Before you start judging me, just hear me out.</p>
 
 <p>Recently I gave an interview and was rejected (Obviously!). I think I wasn’t prepared enough.
 But <em>should I really be preparing for an interview?</em></p>
@@ -90,7 +32,7 @@ Isn’t interview just a way to know if a person can work in the organisation?</
 
 <p>I hope my point is getting clearer.</p>
 
-<p>When we write code for solving such problems, we sometimes forget to check for some things:</p>
+<p>When we write code for solving such problems, we sometimes forget to check for somethings:</p>
 
 <ul>
   <li>Is the code readable? In actual development we never use the variables =&gt; a, b, i, j k etc.</li>
@@ -113,40 +55,4 @@ Isn’t interview just a way to know if a person can work in the organisation?</
 <p><em>Judging a person’s ability using DS &amp; Algos could’ve been a great way in the past, but since the inception of many resources which specifically <strong>prepare</strong> an individual for interviews. I think, number of false positives and false negatives are increasing.</em></p>
 
 <p><strong>NOTE</strong>: Everything that’s written is my personal opinion. Don’t want to offend anybody :-P</p>
-
-  </div>
-
-  <div class="date">
-    Written on November 12, 2019
-  </div>
-
-  
-</article>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-<a href="mailto:dev@prakhar.xyz"><i class="svg-icon email"></i></a>
-
-
-<a href="https://github.com/dev-prakhar" target="_blank"><i class="svg-icon github"></i></a>
-
-<a href="https://www.linkedin.com/in/prakhar1996" target="_blank"><i class="svg-icon linkedin"></i></a>
-
-
-<a href="https://www.twitter.com/prakhars96" target="_blank"><i class="svg-icon twitter"></i></a>
-
-
-
-<a href="https://pypi.org/user/prakhar96" target="_blank"><i class="svg-icon pypi"></i></a>
-        </footer>
-      </div>
-    </div>
-
-    
-
-  </body>
-</html>
+:ET

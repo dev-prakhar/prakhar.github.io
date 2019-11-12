@@ -1,4 +1,4 @@
-I"Ö<p>Before you start judging me, just hear me out.</p>
+I"Ð<p>Before you start judging me, just hear me out.</p>
 
 <p>Recently I gave an interview and was rejected (Obviously!). I think I wasnâ€™t prepared enough.
 But <em>should I really be preparing for an interview?</em></p>
@@ -32,7 +32,7 @@ Isnâ€™t interview just a way to know if a person can work in the organisation?</
 
 <p>I hope my point is getting clearer.</p>
 
-<p>When we write code for solving such problems, we sometimes forget to check for somethings things:</p>
+<p>When we write code for solving such problems, we sometimes forget to check for some things:</p>
 
 <ul>
   <li>Is the code readable? In actual development we never use the variables =&gt; a, b, i, j k etc.</li>

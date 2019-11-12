@@ -33,7 +33,7 @@ When I'm given a question in an interview, I want it to be something I know(Obvi
 
 I hope my point is getting clearer.
 
-When we write code for solving such problems, we sometimes forget to check for somethings things:
+When we write code for solving such problems, we sometimes forget to check for some things:
 
 - Is the code readable? In actual development we never use the variables => a, b, i, j k etc.
 - Is the code easily testable? We should never ship anything without writing tests for it
