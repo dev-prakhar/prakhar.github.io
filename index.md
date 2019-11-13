@@ -79,7 +79,7 @@ end
 ```cpp
 // C/C++
 float rating(){
-  return 4/5;
+  return 4/5.0;
 }
 ```
 
