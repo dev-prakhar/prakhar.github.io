@@ -4,12 +4,21 @@
 
 # Name of your site (displayed in the header)
 name: Prakhar Shrivastava
+author: Prakhar Shrivastava
 
 # Short bio or description (displayed in the header)
 description: Software Development Engineer I @ Zomato
+blog_description: Welcome to my thoughts and experiences. Feel free to take a look.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/41886817?v=4 
+cover: /images/header-bg.jpg
+logo: /images/android-chrome-512x512.png
+float_logo: true
+
+# Site settings
+title: Cryptic Scroll
+email: dev@prakhar.xyz
 
 #
 # Flags below are optional
@@ -22,6 +31,32 @@ footer-links:
   linkedin: prakhar1996
   twitter: prakhars96
   pypi: prakhar96
+
+pagination:
+  # Site-wide kill switch, disabled here it doesn't run at all 
+  enabled: true
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: false
+  # How many objects per paginated page, used to be `paginate` (default: 0, means all)
+  per_page: 5
+  permalink: 'page/:num/'
+  sort_reverse: true
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/prakhars96
+    icon: twitter
+  - title: linkedin
+    url: https://linkedin.com/in/prakhar1996
+    icon: linkedin
+  - title: github
+    url: https://github.com/dev-prakhar
+    icon: github
+  - title: code
+    url: https://pypi.org/user/prakhar96/
+    icon: code
+    desc: Check me out on pypi
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -65,9 +100,12 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jemoji
+  - jekyll-paginate-v2
+  
 
 # Exclude these files from your production _site
 exclude:

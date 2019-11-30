@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: blogs/post
 title: Why should I be preparing for interviews?
+tags: featured
+image: /images/blogs/interview.jpg
 ---
 
 Before you start judging me, just hear me out.
