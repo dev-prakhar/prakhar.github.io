@@ -1,7 +1,7 @@
 ---
 layout: blogs/post
 title: Why should I be preparing for interviews?
-tags: featured
+# tags: featured
 image: /images/blogs/interview.jpg
 ---
 
