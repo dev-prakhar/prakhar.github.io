@@ -55,7 +55,24 @@ pagination:
     <h5 class="index-headline normal"><span>Regular</span></h5>
     {% endif %}
 
-    <div class="cf frame">
+
+    {% for post in site.posts %}
+      <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+        <div class="article-item">
+          <header class="post-header">
+            <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
+          </header>
+          <section class="post-excerpt" itemprop="description">
+            <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+          </section>
+          <div class="post-meta">
+            <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+
+    {% comment %} <div class="cf frame">
       {% for post in paginator.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
@@ -84,6 +101,6 @@ pagination:
         <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older posts &rarr;</a>
       {% endif %}
     {% endif %}
-    </nav>
+    </nav> {% endcomment %}
 
 </main>
