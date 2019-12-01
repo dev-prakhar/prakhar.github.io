@@ -109,6 +109,8 @@ plugins:
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
+form_key: xwkpoqqy
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
