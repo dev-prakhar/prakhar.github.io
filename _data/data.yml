@@ -1,0 +1,175 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Prakhar Shrivastava
+    tagline: Software Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: dev@prakhar.xyz
+    website: www.prakhar.xyz #do not add http://
+    linkedin: prakhar1996
+    github: dev-prakhar
+    twitter: '@prakhars96'
+    bitbucket:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Hindi
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Reading
+        link:
+
+      - item: Guitar
+        link:
+
+      - item: Watching Football
+        link: https://www.manutd.com/
+
+      - item: Playing Basketball
+        link:
+
+      - item: Watching TV Series
+        link:
+
+career-profile:
+    title: Summary
+    summary: |
+      A software engineer, pumped with curiosity. Loves to find out of the box solutions to challenging problems. Behind every bottleneck there's a design problem waiting to be solved.
+education:
+    - degree: B.Tech in CSE
+      university: Jaypee Institute of Information Technology
+      time: 2014 - 2018
+      score: 7.3/10
+    - degree: High School
+      university: Amity International School
+      time: 2012 - 2014
+      score: 93.8/100
+    - degree: Middle School
+      university: Gitarattan Jindal Public School
+      time: 2000 - 2012
+      score: 9.0/10
+experiences:
+    - role: Software Development Engineer 1
+      time: May 2019 - Present
+      company: Zomato, Gurgaon
+      details: |
+        - Responsible for separating out and further handling a micro-service responsible for salaries of about 400,000 riders on a daily basis
+        - Responsible for creating multiple features that enabled us to increase rider experience
+        - Responsible for optimising various snippets. Sometimes leading to a huge increase in performance (query timing reduced from 3.5 hours -> 4 minutes)
+        
+        Technologies Used:-
+          - Backend - RoR, Java, Go
+          - Frontend - JS
+          - Cloud Provider - AWS
+          - DB & Caches - MySql, MongoDB, Dynamo DB, Atlas, Redis
+        
+    - role: Software Engineer
+      time: July 2018 - May 2019
+      company: AgriChain, Gurgaon
+      details: |
+        Worked as Full Stack Developer with responsibilities including handling infrastructure, developing frontend & backend for a feature 
+          - Created multiple modules from scratch (designing to deploying)
+          - Automated application and infrastructure deployment via python script
+          - Reduced response time for APIs by introducing serializers
+          - Reduced operations dependency on developers by a significant factor by introducing admin interface
+          - Responsible for managing infrastructure for all the environments
+
+        Technologies Used:-
+          - Frontend - ReactJS + Redux
+          - Backend - Python(Django)
+          - DB - Postgres
+          - Cloud Provider - AWS
+    - role: Product Engineer Intern
+      time: Feb 2018 - July 2018
+      company: Squad, Noida
+      details: |
+        Worked on developing the SquadVoice Platform. Built/Enhanced several modules for SquadVoice
+          - Made an existing tool more flexible that could extract and transform the incoming data as needed
+          - Introduced Leads Transparency to the clients, that would enable the clients to get the information regarding all their uploaded leads and data on the platform
+          - Revamped the frontend for the SquadVoice Demo Dashboard
+          - Created REST APIs for efficient interaction with the other services
+          - Embedded several compliance modules into the product for overseas clients such as introduction of DNC List, EBR Types, EBR Datetime, Compliant Scripts
+
+        Technologies Used:-
+          - Backend - Python(Django)
+          - Frontend - HTML, CSS, JS
+          - Database - PostgreSQL
+    - role: Software Developer Intern
+      time: June 2017 - July 2017
+      company: Fiat Chrysler Automobiles, Chennai
+      details: |
+        - Automated the downloading of around 400 licenses using python and selenium web driver. The process proved to be much faster and more efficient than the manual way of downloading the licenses.
+        - Developed a web application which would avoid the manual analysis of the required spreadsheets and directly push the necessary data into the database.
+        - Developed a web application for the company regarding the purchases of services/goods. This helped us avoid the manual analysis of invoice mapping and manually getting approvals for every transactions.
+
+        The web applications were developed using HTML, CSS, Javascript(jQuery, Angular JS, Angular Material) for frontend, ASP.NET(C#) for backend and MySQL for database.
+    - role: Software Developer Intern
+      time: March 2017 - April 2017
+      company: TranZact, Mumbai
+      details: |
+        - Validated HTML forms for every page using JavaScript(jQuery).
+        - Generated reports for users, which involved the revenue, taxes etc. using Python.
+        - Created access management for employees which provided the abstraction to the users, hiding unnecessary data using HTML, CSS, JavaScript, Python.
+projects:
+    title: Projects
+    assignments:
+      - title: Fun JS
+        link: "https://github.com/dev-prakhar/fun_hacks"
+        tagline: "A collection of fun JS scripts(WIP)"
+
+      - title: PyDapt
+        link: "https://github.com/dev-prakhar/PyDapt"
+        tagline: "Ruby's Openstruct functionality, written for python"
+
+      - title: Git Log Parser
+        link: "https://github.com/dev-prakhar/git-log-parser"
+        tagline: "A tool that helps you analyse you git commits by parsing it in CSV, JSON or XML"
+
+      - title: Social User Info
+        link: "https://github.com/dev-prakhar/social-user-info"
+        tagline: "A python package that helps extracting user info from various social networks using user's access token"
+
+publications:
+    title: Publications
+    papers:
+      - title: Differential Bond Energy Algorithm For Optimal Vertical Fragmentation of Distributed Databases
+        link: "https://www.sciencedirect.com/science/article/pii/S1319157818302519?via%3Dihub"
+        authors: Prakhar Shrivastava, Jharna Barlawala, Parul Aggarwal
+        publisher: Elsevier
+        conference: Journal of King Saud University - Computer and Information Sciences
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 95%
+
+      - name: Docker
+        level: 80%
+
+      - name: Javascript & jQuery
+        level: 85%
+
+      - name: Angular
+        level: 75%
+
+      - name: React JS
+        level: 75%
