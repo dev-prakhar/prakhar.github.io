@@ -67,9 +67,10 @@ experiences:
       time: May 2019 - Present
       company: Zomato, Gurgaon
       details: |
-        - Responsible for separating out and further handling a micro-service responsible for salaries of about 400,000 riders on a daily basis
-        - Responsible for creating multiple features that enabled us to increase rider experience
-        - Responsible for optimising various snippets. Sometimes leading to a huge increase in performance (query timing reduced from 3.5 hours -> 4 minutes)
+        Working as a Backend Developer in Zomato's Logistics Team. Responsible for end-to-end development of features that would increase rider experience.
+          - Responsible for separating out and further handling a micro-service responsible for accounting of about 400,000 riders on a daily basis
+          - Responsible for driving mutiple features, from development to release (including scaling to feature country wide)
+          - Responsible for optimising various snippets. Sometimes leading to a huge increase in performance (query timing reduced from 3.5 hours -> 4 minutes)
         
         Technologies Used:-
           - Backend - RoR, Java, Go
@@ -116,12 +117,12 @@ experiences:
         - Developed a web application which would avoid the manual analysis of the required spreadsheets and directly push the necessary data into the database.
         - Developed a web application for the company regarding the purchases of services/goods. This helped us avoid the manual analysis of invoice mapping and manually getting approvals for every transactions.
 
-        The web applications were developed using HTML, CSS, Javascript(jQuery, Angular JS, Angular Material) for frontend, ASP.NET(C#) for backend and MySQL for database.
+        The web applications were developed using HTML, CSS, Javascript (jQuery, Angular JS, Angular Material) for frontend, ASP.NET (C#) for backend and MySQL for database.
     - role: Software Developer Intern
       time: March 2017 - April 2017
       company: TranZact, Mumbai
       details: |
-        - Validated HTML forms for every page using JavaScript(jQuery).
+        - Validated HTML forms for every page using JavaScript (jQuery).
         - Generated reports for users, which involved the revenue, taxes etc. using Python.
         - Created access management for employees which provided the abstraction to the users, hiding unnecessary data using HTML, CSS, JavaScript, Python.
 projects:
