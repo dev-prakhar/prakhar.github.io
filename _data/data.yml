@@ -69,7 +69,7 @@ experiences:
       details: |
         Working as a Backend Developer in Zomato's Logistics Team. Responsible for end-to-end development of features that would increase rider experience.
           - Responsible for separating out and further handling a micro-service responsible for accounting of about 400,000 riders on a daily basis
-          - Responsible for driving mutiple features, from development to release (including scaling to feature country wide)
+          - Responsible for driving mutiple features, from development to release (including scaling the feature country wide)
           - Responsible for optimising various snippets. Sometimes leading to a huge increase in performance (query timing reduced from 3.5 hours -> 4 minutes)
         
         Technologies Used:-
