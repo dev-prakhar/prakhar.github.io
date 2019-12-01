@@ -27,11 +27,8 @@ But that's the whole point. This way doesn't tell you if you're going for the ri
 
 When I'm given a question in an interview, I want it to be something I know(Obviously!) or something that makes me learn new thing. In my opinion, I don't actually learn anything new with DS questions. If I'm not able to get it, I'll just open internet for solution and check it out and I'll not learn anything new because this knowledge will only help me crack interviews.
 
-#### What is a BST?
-- **Very Important** for any technical individual to know.
-
-#### Bottom view of a BST
-- I don't think that's necessary.
+* What is a BST? -> **Very Important** for any technical individual to know.
+* Bottom view of a BST. -> I don't think that's necessary.
 
 I hope my point is getting clearer.
 
