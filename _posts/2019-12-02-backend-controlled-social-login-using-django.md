@@ -28,7 +28,7 @@ While I was exploring with [Facebook Devs account](https://developers.facebook.c
 You simply hit the API with the access token and it fetches the data for you(*That's what APIs do, duh!!*).
 
 {% highlight python %}
-response = request.get(url='https://graph.facebook.com/v3.2/me', params={{query_params_for_fields_you_want}})
+response = request.get(url='https://graph.facebook.com/v3.2/me', params={query_params_for_fields_you_want})
 {% endhighlight %}
 
 It's that simple. So I thought maybe I could do this for `Google` and all the subsequent social medias as well.
