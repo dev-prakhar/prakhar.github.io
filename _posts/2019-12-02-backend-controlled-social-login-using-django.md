@@ -119,4 +119,4 @@ For a more detailed guide, visit the [project on github](https://github.com/dev-
 
 Follow me on [Github](https://github.com/dev-prakhar)
 
-Feel free to reach out to me on my [website](https://prakhar.xyz)
+Feel free to reach out to me on my [website](https://www.prakhar.xyz/#contact)
