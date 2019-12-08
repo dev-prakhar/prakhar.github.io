@@ -9,12 +9,14 @@ We use MongoDB in one of our high throughput microservice which is responsible f
 This microservice helps us in determining how much money we should give the riders.
 
 ## Conception of the bug
+***
 
 Documents that are used in the mentioned microservice is fetched from `MongoDB`. We needed to alter/insert some documents and we decided that we would write a `JS` script and run the script in the `Mongo shell`. That would alter/insert the documents.
 
 We wrote a `JS script` and executed it in the mongo shell and the bug started showing itself.
 
 ## Detection & Resolution of bug
+***
 
 Detection & Resolution of bug happened in 3 phases.
 
@@ -75,7 +77,8 @@ fieldName: {
 
 Riders got their money and everyone lived happily ever after.*(Hopefully!)*
 
-### Implicit Conversion
+## Implicit Conversion
+***
 
 How did this conversion happen while insertion?
 
