@@ -101,7 +101,7 @@ db.{collection_name}.save(newConfig)
 
 **Learning: MongoDB, by default, treats every number as float, unless stated otherwise**
 
-Stack overflow: [Mongo Inserts Flow](https://stackoverflow.com/questions/8218484/mongodb-inserts-float-when-trying-to-insert-integer)
+Stack overflow: [Mongo Inserts Float](https://stackoverflow.com/questions/8218484/mongodb-inserts-float-when-trying-to-insert-integer)
 
 Follow me on [Github](https://github.com/dev-prakhar)
 
