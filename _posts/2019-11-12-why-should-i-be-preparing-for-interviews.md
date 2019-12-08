@@ -2,6 +2,7 @@
 layout: blogs/post
 title: Why should I be preparing for interviews?
 image: /images/blogs/interview.jpg
+tags: featured
 ---
 
 Before you start judging me, just hear me out.
