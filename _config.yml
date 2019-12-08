@@ -11,7 +11,7 @@ description: Software Development Engineer I @ Zomato
 blog_description: Welcome to my thoughts and experiences. Feel free to take a look.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/41886817?v=4 
+avatar: /images/avatar.jpg
 cover: /images/header-bg.jpg
 logo: /images/android-chrome-512x512.png
 float_logo: true
