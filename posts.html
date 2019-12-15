@@ -44,8 +44,11 @@ pagination:
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
+            <div hidden=true class='hidden-post-url'>{{ post.url | replace: '/', ''}}</div>
+            <div hidden=true class='hidden-post-content-ft-{{ post.url | replace: "/", "" }}'>{{ post.content }}</div>
             <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+              <div><time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time></div>
+              <div><i class="fa fa-clock-o"></i><span class='reading-time-home-ft-{{ post.url | replace: "/", "" }}'></span></div>
             </div>
           </div>
         </article>
@@ -65,8 +68,11 @@ pagination:
           <section class="post-excerpt" itemprop="description">
             <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
           </section>
+          <div hidden=true class='hidden-post-url'>{{ post.url | replace: '/', ''}}</div>
+          <div hidden=true class='hidden-post-content-reg-{{ post.url | replace: "/", "" }}'>{{ post.content }}</div>
           <div class="post-meta">
-            <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+            <div><time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time></div>
+            <div><i class="fa fa-clock-o"></i><span class='reading-time-home-reg-{{ post.url | replace: "/", "" }}'></span></div>
           </div>
         </div>
       </article>
