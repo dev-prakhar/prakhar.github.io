@@ -2,7 +2,7 @@
 layout: blogs/post
 title: How to get full control of your social logins using Django?
 image: /images/blogs/social-logins.jpg
-category: Tech
+categories: Tech
 ---
 
 ## Why do you need this?

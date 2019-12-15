@@ -3,7 +3,7 @@ layout: blogs/post
 title: How mongo made us deal with an invisible bug?
 image: /images/blogs/bug/bug.jpg
 tags: featured
-category: Tech
+categories: Tech
 ---
 
 We use MongoDB in one of our high throughput microservice which is responsible for accounting of riders.
