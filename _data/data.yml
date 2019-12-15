@@ -174,3 +174,15 @@ skills:
 
       - name: React JS
         level: 75%
+      
+      - name: AWS
+        level: 40%
+
+      - name: Postgres
+        level: 60%
+
+      - name: MySQL
+        level: 60%
+
+      - name: MongoDB
+        level: 50%
