@@ -64,6 +64,7 @@ pagination:
     <h5 class="index-headline normal"><span>Regular</span></h5>
     {% endif %}
 
+    {% include advertisements/display_ad.html%}
 
     {% for post in site.posts %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
