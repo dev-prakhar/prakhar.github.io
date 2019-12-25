@@ -7,5 +7,5 @@ $(document).ready(function () {
 
 readingTimeCustom = function(content, wordPerMinute = 200) {
   var readMinutes = content.split(' ').length / wordPerMinute;
-  return readMinutes > 1 ? " " + Math.round(readMinutes) + ' minute read': " " + Math.round(readMinutes * 60) + ' second read'
+  return readMinutes > 1 ? " " + Math.round(readMinutes) + ' minute read': " " + 'Less than a minute read'
 };
