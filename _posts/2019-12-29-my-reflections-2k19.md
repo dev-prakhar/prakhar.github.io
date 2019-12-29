@@ -99,6 +99,8 @@ It's not fat-shaming if being obese brings a lot of unhealthy things with it. My
 
 Today, here I am, **74 kgs**.
 
+![Now and Then](/images/blogs/reflections/now-and-then.jpeg "Now and Then")
+
 * From not being able to jog for 3 minutes straight *to* being able to constantly sprint for 10 minutes with capacity to run more
 * From drinking cold drink with every meal *to* being cold-drink sober for a year
 * From finding fittable clothes *to* fitting in unfittable clothes
@@ -125,6 +127,8 @@ The peace of living without technology in this pacy world is something we don't 
 The natural beauty of the world that is so mesmerising, you think why did I wait so long for this.
 
 This was a beautiful experience.
+
+![Hampta Pass](/images/blogs/reflections/trek.jpg "Hampta Pass")
 
 ***
 
