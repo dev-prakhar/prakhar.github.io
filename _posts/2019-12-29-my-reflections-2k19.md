@@ -93,7 +93,7 @@ It's been a long time since I'm this happy and I know it's a lot of dependency o
 
 ### Reduced 20 kgs (and counting...)
 
-At the beginning of the year I was **95 kgs**. In October 2018, I realised that it's time change things. I had no stamina, I was over weight and I kept eating like there's no tomorrow. Apparantly, there is tomorrow and it's not pretty.
+At the beginning of the year I was **95 kgs**. In October 2018, I realised that it's time to change things. I had no stamina, I was over weight and I kept eating like there's no tomorrow. Apparantly, there is tomorrow and it's not pretty.
 
 It's not fat-shaming if being obese brings a lot of unhealthy things with it. My thyroid was not controlled, my weight kept increasing. I had to have cold-drink with every meal.
 
