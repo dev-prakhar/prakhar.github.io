@@ -121,7 +121,7 @@ I didn't work anything for it. Stopped going to gym in excitement :man_facepalmi
 After I was told to take proper trekking gears, we reached the place where we started our trek.
 I started getting tired easily. Day 1 & 2 were fine but Day 3 & 4 made me think, *why did I agree to this?*
 
-I didn't think I would be able to complete it. I was very tired. Offcourse, I did complete it. But I realised it was the lack of planning and preparation that resulted in this. Back then I was sure that I will never trek again. But, looking back it was a great adventure. I might be up for something this year as well.
+I didn't think I would be able to complete it. I was very tired. Of course, I did complete it. But I realised it was the lack of planning and preparation that resulted in this. Back then I was sure that I will never trek again. But, looking back it was a great adventure. I might be up for something this year as well.
 
 The peace of living without technology in this pacy world is something we don't experience everyday.
 The natural beauty of the world that is so mesmerising, you think why did I wait so long for this.
