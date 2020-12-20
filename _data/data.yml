@@ -63,14 +63,20 @@ education:
       time: 2000 - 2012
       score: 9.0/10
 experiences:
+    - role: Senior Software Engineer
+      time: Novemeber 2020 - Present
+      company: Pushowl, Bangalore
+      details: |
+
     - role: Software Development Engineer 1
-      time: May 2019 - Present
+      time: May 2019 - November 2020
       company: Zomato, Gurgaon
       details: |
-        Working as a Backend Developer in Zomato's Logistics Team. Responsible for end-to-end development of features that would increase rider experience.
-          - Responsible for separating out and further handling a micro-service responsible for accounting of about 400,000 riders on a daily basis
-          - Responsible for driving mutiple features, from development to release (including scaling the feature country wide)
-          - Responsible for optimising various snippets. Sometimes leading to a huge increase in performance (query timing reduced from 3.5 hours -> 4 minutes)
+        Worked as Backend Engineer
+        - Led a team of 4 developers for building a highly impactful feature from grounds up 
+        - Responsible for delivering a high throughput low latency micro-service that resulted in reducing infrastructure cost significantly. The service was able to serve response in ~2.5 ms while receiving a throughput of ~70K RPM
+        - Delivered highly impactful and critical micro-service that was able to handle 5x traffic without any bottlenecks (worked in a team of 4 developers)
+        - Collaborated with different teams in order to release a feature smoothly
         
         Technologies Used:-
           - Backend - RoR, Java, Go
