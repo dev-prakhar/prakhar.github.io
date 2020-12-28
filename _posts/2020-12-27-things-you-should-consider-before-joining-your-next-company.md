@@ -52,7 +52,7 @@ There could be different ways in which an organisation can show trust in it's em
 > The commited deadline looks unrealistic but John Doe still tries to push the team to release within the promised deadline.
 > Now Jane Doe is expecting John Doe to meet the deadline because she has commited the deadline to her manager Jane John
 
-![Organisation Heirarchy](/images/blogs/things_to_consider/hierarchy.png "Organisation Heirarchy")
+![Organisation Hierarchy](/images/blogs/things_to_consider/hierarchy.png "Organisation Heirarchy")
 
 * *Less Employee Tracking Programs*: A lot of companies want their employees to clock `X` hours.
 While I understand, this is very important for some companies as they charge on hourly basis. I, personally would not like to work in an organisation where I'm tracked.
