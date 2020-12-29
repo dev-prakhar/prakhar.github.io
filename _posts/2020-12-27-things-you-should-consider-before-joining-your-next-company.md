@@ -48,9 +48,9 @@ I would go for a company where the later is being followed.
 There could be different ways in which an organisation can show trust in it's employees:
 * *Less Micromanagement*: Micromanagement is something that exists in best of the places. Micromanagement is a result of `Hierarical Expectations`.
 
-> John Doe has commited a feature release to his manager Jane Doe without consulting his sub ordinate John Jane.
-> The commited deadline looks unrealistic but John Doe still tries to push the team to release within the promised deadline.
-> Now Jane Doe is expecting John Doe to meet the deadline because she has commited the deadline to her manager Jane John
+> Tony Stark has commited a feature release to his manager Steve Rogers without consulting his sub ordinate Peter Parker.
+> The commited deadline looks unrealistic but Tony Stark still tries to push the team to release within the promised deadline.
+> Now Steve Rogers is expecting Tony Stark to meet the deadline because he has commited the deadline to his manager Nick Fury
 
 ![Organisation Hierarchy](/images/blogs/things_to_consider/hierarchy.png "Organisation Heirarchy")
 
@@ -63,10 +63,10 @@ In the start of one's career, this might not be a very important point to consid
 When I say work-life balance, I don't mean that there should a fixed timing where you need to work.
 What I mean here is that the `Individual Leadership` should understand what employee needs.
 
-> John Doe was not feeling productive at work. He decided to leave early today so that he can have some rest and energize himself for the next day.
-> When he was leaving, his manager, Jane Doe saw him leaving early. She quickly went to him and asked what is the issue?
-> John Doe replied, "I'm not feeling very productive so I'm taking the day off". After hearing this, Jane Doe didn't understand this
-> and asked John Doe to complete the work that was due today before leaving.
+> Steve Rogers was not feeling productive at work. He decided to leave early today so that he can have some rest and energize himself for the next day.
+> When he was leaving, his manager, Nick Fury saw him leaving early. He quickly went to him and asked what is the issue?
+> Steve Rogers replied, "I'm not feeling very productive so I'm taking the day off". After hearing this, Nick Fury didn't understand this
+> and asked Steve Rogers to complete the work that was due today before leaving.
 
 It's important to note, how much a company respects employee's personal life. How many times does your `Individual Leaderhsip` wants you to work on weekends so that you could complete a task?
 I consider all these, red flags.
@@ -94,8 +94,8 @@ This will help you get some idea around what your future could look like at this
 As an individual, your main goal at working in an organsiation (be it be small or big organisation) is **growth** on personal and professional level.
 For freshers, just coming out of college, an organisational environment could be very overwhelming. Choosing a wrong organisation could have a negative effect on their professional life.
 
-> John Doe got out of college. He had offers from different companies. He chose a company with the biggest brand name and compensation.
-> Now, John Doe started working there. A lot of huge systems, a lot of tools he never heard. He doesn't like the work he does here. It's just writing APIs.
+> Peter Parker got out of college. He had offers from different companies. He chose a company with the biggest brand name and compensation.
+> Now, Peter Parker started working there. A lot of huge systems, a lot of tools he never heard. He doesn't like the work he does here. It's just writing APIs.
 > He wants to work on some systems, he wants to learn how the infrastructure works in a huge organisation. Due to lack of experience, he thinks if such a big organisations is like this, then all the companies must be like this.
 
 There might be some people who think this is not how it works. But this is actually a real story that I got to know when I talked to one of my friends.
