@@ -46,7 +46,7 @@ I would go for a company where the later is being followed.
 **A place where the organisation is not afraid to completely trust it's employees**
 
 There could be different ways in which an organisation can show trust in it's employees:
-* *Less Micromanagement*: Micromanagement is something that exists in best of the places. Micromanagement is a result of `Hierarichal Expectations`.
+* *Less Micromanagement*: Micromanagement is something that exists in best of the places. Micromanagement is a result of `Hierarical Expectations`.
 
 > John Doe has commited a feature release to his manager Jane Doe without consulting his sub ordinate John Jane.
 > The commited deadline looks unrealistic but John Doe still tries to push the team to release within the promised deadline.
